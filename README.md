@@ -1,2 +1,2 @@
 # to-do-list
-An Odin Project creating a To-do List App featuring An extensive feature set.
+Template repo for setting up basic webpack config
